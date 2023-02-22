@@ -1,5 +1,5 @@
 # Slides and Exercise
-- 🖥  [Slides](https://docs.google.com/presentation/d/1MB9AaCyRVAjUNrixk78ezHAVR8d2IZyb44jXdCwxR-0/edit#slide=id.gc566285963_0_219)
+- 🖥  [Slides](https://docs.google.com/presentation/d/1uq7xAS0HWbIg3XiMgbPCPMlf4zIJyfLT/edit?usp=share_link&ouid=103945856594382868323&rtpof=true&sd=true)
 - ✏️ [Fun with Arrays (with answers)](https://codesandbox.io/s/fun-with-arrays-with-answers-3p8tv?file=/src/App.js)
 
 # Arrow functions
