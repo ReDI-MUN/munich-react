@@ -1,5 +1,5 @@
 # Slides and Exercises 
-- 🖥 [Slides](https://docs.google.com/presentation/d/1DvmaVRvEOMjpUeyK0T4ppLAMAfPjek8lmdE8C6j1Hqc/edit#slide=id.g9d90a069b6_0_349)
+- 🖥 [Slides](https://docs.google.com/presentation/d/1RymGtWKk6EzmqOfJf8XJPbyd71xeig5I/edit?usp=share_link&ouid=103945856594382868323&rtpof=true&sd=true)
 - 📦  [More ToDo app exercises](https://codesandbox.io/s/redi-week-05-exercises-forked-lb6bd?file=/src/ToDoApp.js)
 
 
