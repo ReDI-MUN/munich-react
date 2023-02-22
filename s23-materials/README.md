@@ -1,7 +1,6 @@
-# React Curriculum 
+# JavaScript III (React) Curriculum 
 
-This is the curriculum of ReDI's React course in Berlin. 
-All of the slides, homework, recordings, and more from each class - in one place!
+Here you can find all the course materials for the course. Feel free to use these materials as you like, add or supplement anything accorindg to your subject matter expertise (as long as the curriculum is followed)
 You can also find more resources to help you on your React learning journey in RESOURCES.md.
 
 
