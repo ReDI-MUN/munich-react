@@ -1,2 +1,2 @@
-- 🖥  [Slides](https://docs.google.com/presentation/d/1htKCGdroUouI6CP_OsFd0LPuijGOQFFHPe9j80F0Gdc/edit?usp=sharing)
+- 🖥  [Slides](https://docs.google.com/presentation/d/1xZU3TQ7sQdi5xVjynz2z8yWQ4p7JeP5_/edit?usp=share_link&ouid=103945856594382868323&rtpof=true&sd=true)
 - 📝 [Very detailed yet simple explanation of imports and exports in JS](https://javascript.info/import-export)
