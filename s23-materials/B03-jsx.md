@@ -1,5 +1,5 @@
 # Exercise and Slides
-- 🖥  [Slides](https://docs.google.com/presentation/d/1ODDEITggZ5zdOkYu-s-XwZkSBqRqhPuXpuwsE5Ng0oU/edit?usp=sharing)
+- 🖥  [Slides](https://docs.google.com/presentation/d/1tBFeOGSroTrmFtnhpfC79sJ9kuvZ1ENj/edit#slide=id.p1)
 - 📦 [Homework](https://codesandbox.io/s/redi-react-2021-jsx-homework-5qu7v)
 - 🌐 [Reference site for homework](https://redi-react-2021-jsx-homework.netlify.app/)
 - ✏️ [One potential solution for the homework](https://codesandbox.io/s/redi-react-2021-jsx-solution-gsli2)
