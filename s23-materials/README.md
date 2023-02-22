@@ -26,7 +26,6 @@ Here you can find some course materials used previously in React courses. Feel f
 - Mini app 1
 
 ## 3. Reusability and Hierarchy
-- Chapter Intro: Reusability & hierarchy
 - [Components, reusability and props](https://github.com/Shama-Padke/munich-react/blob/main/s23-materials/C01-components-reusability-props.md)
 - [Component hierarchy](https://github.com/Shama-Padke/munich-react/blob/main/s23-materials/C02-component-hierarchy.md)
 - [Passing props](https://github.com/Shama-Padke/munich-react/blob/main/s23-materials/C03-passing-props.mdd)
@@ -36,7 +35,6 @@ Here you can find some course materials used previously in React courses. Feel f
 - Mini app 2
 
 ## 4. Further React Concepts
-- Further React concepts
 - [Routing](https://github.com/Shama-Padke/munich-react/blob/main/s23-materials/D01-routing.md)
 - [useEffect() and data fetching](https://github.com/Shama-Padke/munich-react/blob/main/s23-materials/D02-useffect-and-data-fetching.md)
 - [Context API](https://github.com/Shama-Padke/munich-react/blob/main/s23-materials/D03-context-api.md)
