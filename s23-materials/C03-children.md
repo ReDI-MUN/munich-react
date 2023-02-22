@@ -1,5 +1,5 @@
 # Exercises and Resources
-- 🖥 [Slides](https://docs.google.com/presentation/d/1Z1Il2OWFKR3vto_Xuy0QccEVEB9kuVvTubV0eKPQq-o/edit)
+- 🖥 [Slides](https://docs.google.com/presentation/d/1Yd5cIPSZQNmFyP-ZWP5u9t3xophc-U8l/edit?usp=sharing&ouid=103945856594382868323&rtpof=true&sd=true)
 
 
 # Children
