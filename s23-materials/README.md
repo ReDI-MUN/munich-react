@@ -43,7 +43,7 @@ Here you can find some course materials used previously in React courses. Feel f
 - Review Routing, Context API, useEffect, Forms
 - Debugging
 - Improving performance
-- [Redux](https://github.com/Shama-Padke/munich-react/blob/main/s23-materials/D09-redux.md)
+- [Redux](https://github.com/Shama-Padke/munich-react/blob/main/s23-materials/D09-redux.md) (if time allows-not mandatory to cover in course)
 - Mini app 3
 
 ## 5. Project
