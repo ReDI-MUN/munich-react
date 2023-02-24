@@ -28,7 +28,7 @@ Here you can find some course materials used previously in React courses. Feel f
 ## 3. Reusability and Hierarchy
 - [Components, reusability and props](https://github.com/Shama-Padke/munich-react/blob/main/s23-materials/C01-components-reusability-props.md)
 - [Component hierarchy](https://github.com/Shama-Padke/munich-react/blob/main/s23-materials/C02-component-hierarchy.md)
-- [Passing props](https://github.com/Shama-Padke/munich-react/blob/main/s23-materials/C03-passing-props.mdd)
+- [Passing props](https://github.com/Shama-Padke/munich-react/blob/main/s23-materials/C03-passing-props.md)
 - [Children](https://github.com/Shama-Padke/munich-react/blob/main/s23-materials/C03-children.md)
 - [Styling (modules and inline)](https://github.com/Shama-Padke/munich-react/blob/main/s23-materials/C04-styling.md)
 - [Recap & Styled components](https://github.com/Shama-Padke/munich-react/blob/main/s23-materials/C04-styled-components.md)
